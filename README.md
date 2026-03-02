@@ -4,5 +4,7 @@ Algoritmo de máquina de caça-níqueis feita no python com auxílio do vídeo "
 # Tecnologias
 - python
 
-- # Base do código
-- [python](https://youtu.be/z8UPAVTh2aE)
+# Base do código
+- [Learn Python With This ONE Project!](https://youtu.be/z8UPAVTh2aE) de 
+Tech With Tim
+
